@@ -1,0 +1,12 @@
+<!-- Content Locker用のdiv -->
+<div id="locker"></div>
+
+<!-- Content Locker スクリプト -->
+<script type="text/javascript">
+  (function() {
+    var script = document.createElement("script");
+    script.src = "https://getafilenow.com/script_include.php?id=1780419";
+    script.type = "text/javascript";
+    document.getElementById("locker").appendChild(script);
+  })();
+</script>
